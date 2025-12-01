@@ -1,5 +1,5 @@
-Loan Risk Assessment
-
+***Loan Risk Assessment***
+----------------------
 **Overview**
 
 This project performs a complete loan risk assessment analysis using a synthetic dataset. It includes data exploration, preprocessing, visualization, and machine-learning model development to predict loan approval outcomes and understand key risk factors.
