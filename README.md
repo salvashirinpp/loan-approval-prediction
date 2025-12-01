@@ -1,4 +1,4 @@
-***Loan Risk Assessment***
+***Risk Assessment and Loan Approval Modeling***
 ----------------------
 **Overview**
 
