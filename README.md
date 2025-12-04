@@ -1,3 +1,5 @@
+<img width="1871" height="1034" alt="Screenshot 2025-12-01 151117" src="https://github.com/user-attachments/assets/e73ed96c-3cae-4ea0-bbef-ff7381cfc178" />
+
 ***Risk Assessment and Loan Approval Modeling***
 ----------------------
 **Overview**
@@ -99,3 +101,4 @@ Random Forest provided the best predictive performance in this analysis.
 
 This project demonstrates a complete workflow for building a loan approval prediction system, starting from raw data, performing in-depth analysis, and developing machine-learning models.
 The approach can be extended to real-world datasets for financial analytics, credit risk scoring, or automated loan decision systems.
+
