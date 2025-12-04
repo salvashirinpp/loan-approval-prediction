@@ -1,5 +1,7 @@
 <img width="1871" height="1034" alt="Screenshot 2025-12-01 151117" src="https://github.com/user-attachments/assets/e73ed96c-3cae-4ea0-bbef-ff7381cfc178" />
 
+http://127.0.0.1:5000
+
 ***Risk Assessment and Loan Approval Modeling***
 ----------------------
 **Overview**
